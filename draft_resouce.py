@@ -9,6 +9,12 @@ RANDOM1 = [30, 300]
 RECOVER_SPEED = 2 # second
 PROCESS_TAKING_TIME = 100
 # Yeah Yeah
+#OKOKOKOKOKOKOKOK
+#OKOKOKOKOKOKOKOK
+#OKOKOKOKOKOKOKOK
+#OKOKOKOKOKOKOKOK
+#OKOKOKOKOKOKOKOK
+#OKOKOKOKOKOKOKOK
 def Packet(name, env, SERVER_SPACE, CPU):
     consuming_cpu_level = random.randint(*CONSUMING_CPU_LEVEL)
     print('%s arriving at SERVER_SPACE at %.1f' % (name, env.now))
